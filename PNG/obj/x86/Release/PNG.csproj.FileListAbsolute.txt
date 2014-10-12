@@ -1,0 +1,8 @@
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\bin\Release\PNGUI.exe.config
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\bin\Release\PNGUI.exe
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\bin\Release\PNGUI.pdb
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\obj\x86\Release\PNG.Form1.resources
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\obj\x86\Release\PNG.Properties.Resources.resources
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\obj\x86\Release\PNG.csproj.GenerateResource.Cache
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\obj\x86\Release\PNGUI.exe
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\obj\x86\Release\PNGUI.pdb

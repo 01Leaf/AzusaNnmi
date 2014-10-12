@@ -1,0 +1,9 @@
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\bin\Debug\PNGUI.exe.config
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\bin\Debug\PNGUI.exe
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\bin\Debug\PNGUI.pdb
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\obj\x86\Debug\PNG.Form1.resources
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\obj\x86\Debug\PNG.Properties.Resources.resources
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\obj\x86\Debug\PNG.csproj.GenerateResource.Cache
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\obj\x86\Debug\PNGUI.exe
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\obj\x86\Debug\PNGUI.pdb
+C:\Users\ytc\Documents\GitHub\Live2D\PNG-Auxiliary-Module\PNG\obj\x86\Debug\PNG.csprojResolveAssemblyReference.cache
